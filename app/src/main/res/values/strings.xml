@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalKits</string>
+    <string name="menu_title">¿Qué se te antoja hoy?</string>
+    <string name="menu_subtitle">Encuentra lugares para comer cerca de UPAEP</string>
+    <string name="menu_set_meals">Comida corrida y a la carta</string>
+    <string name="menu_fast_food">Comida rápida</string>
+    <string name="menu_mexican">Comida mexicana</string>
+    <string name="menu_international">Comida extranjera</string>
+    <string name="menu_cafes">Cafeterías y postres</string>
+    <string name="menu_other">Otros</string>
+</resources>
